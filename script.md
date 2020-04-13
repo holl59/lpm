@@ -1,4 +1,4 @@
-> sudo apt update; sudo apt install libreoffice firefox vlc
+> sudo apt update; sudo apt install libreoffice firefox vlc cairo-dock cairo-dock-plug-ins
 
 * Zoom
 > wget https://zoom.us/client/latest/zoom_amd64.deb ;
@@ -7,3 +7,4 @@
 * skype
 > wget https://go.skype.com/skypeforlinux-64.deb ;
 > sudo apt install ./skypeforlinux-64.deb
+

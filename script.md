@@ -5,6 +5,5 @@
 > sudo apt install ./zoom_amd64.deb
 
 * skype
-> software-properties-gtk
-  * Onglet autre partenaire / Coché parteniaires de Canonical
-> sudo apt install skype
+> wget https://go.skype.com/skypeforlinux-64.deb ;
+> sudo apt install ./skypeforlinux-64.deb

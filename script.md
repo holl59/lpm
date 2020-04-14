@@ -1,4 +1,4 @@
-> sudo apt update; sudo apt install libreoffice firefox vlc cairo-dock cairo-dock-plug-ins
+> sudo apt update; sudo apt install libreoffice firefox vlc nautilus cairo-dock cairo-dock-plug-ins
 
 * Zoom
 > wget https://zoom.us/client/latest/zoom_amd64.deb ;

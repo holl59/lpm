@@ -1,5 +1,8 @@
 Connaitre la carte graphique :
 > inxi -G
 
-# la AT AMD Radeon :
+# les ATI AMD Radeon :
 - https://www.amd.com/fr/support
+
+
+sudo apt-get install lm-sensors

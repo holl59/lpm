@@ -9,5 +9,5 @@ wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo apt-key add - ;
 echo 'deb http://deb.anydesk.com/ all main' | sudo tee /etc/apt/sources.list.d/anydesk-stable.list;
 
 #Install
-sudo apt update; sudo apt upgrade;
-sudo apt install anydesk libreoffice libreoffice-l10n-fr brasero firefox vlc inxi;
+sudo apt update; sudo apt upgrade -y;
+sudo apt install -y anydesk libreoffice libreoffice-l10n-fr brasero firefox vlc inxi;

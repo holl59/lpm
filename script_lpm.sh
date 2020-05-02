@@ -10,4 +10,4 @@ echo 'deb http://deb.anydesk.com/ all main' | sudo tee /etc/apt/sources.list.d/a
 
 #Install
 sudo apt update; sudo apt upgrade;
-sudo apt install anydesk libreoffice libreoffice-l10n-fr brasero firefox vlc;
+sudo apt install anydesk libreoffice libreoffice-l10n-fr brasero firefox vlc inxi;

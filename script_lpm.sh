@@ -1,8 +1,8 @@
 #Zoom
-wget https://zoom.us/client/latest/zoom_amd64.deb; sudo apt install ./zoom_amd64.deb;
+wget https://zoom.us/client/latest/zoom_amd64.deb; sudo apt install -y ./zoom_amd64.deb;
 
 #skype
-wget https://go.skype.com/skypeforlinux-64.deb; sudo apt install ./skypeforlinux-64.deb;
+wget https://go.skype.com/skypeforlinux-64.deb; sudo apt install -y ./skypeforlinux-64.deb;
 
 #Anydesk
 wget -qO - https://keys.anydesk.com/repos/DEB-GPG-KEY | sudo apt-key add - ;
